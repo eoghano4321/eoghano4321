@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a third level student currently studying [Immersive Software Engineering](https://software-engineering.ie/) in the University of Limerick
 
 <!--
 **eoghano4321/eoghano4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
