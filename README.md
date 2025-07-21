@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a third level student currently studying [Immersive Software Engineering](https://software-engineering.ie/) in the University of Limerick
+I am a software engineer in [Tines](https://www.tines.com/). I recently graduated with a 1:1 from [Immersive Software Engineering](https://software-engineering.ie/) in the University of Limerick
 
 
 **Languages and Tools:**
